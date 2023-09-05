@@ -1,27 +1,27 @@
 ## Nolan Nguyen
 
-### Term Year 
+### Fall 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- ACG2020 Accounting For Managers
 
-- Course 2
+- CHM2045 Chemistry
 
-- Course 3
+- COP2073 Foundations of Data Analytics
 
-- Course 4
+- STA2023 Statistics 1
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Video gaming
 
-- Thing 2
+- Woodworking
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Skateboarding
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/09/05
